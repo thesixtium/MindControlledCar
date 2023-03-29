@@ -1,0 +1,41 @@
+Added Component: Designator=U?(ST_NUCLEO-F401RE - COPY)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUCLEO-F401RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(ST_NUCLEO-F401RE - COPY)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUCLEO-F401RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U?-CN7_24
+Added Net: Name=+5
+Added Pin To Net: NetName=Base_Servo Pin=U?-CN10_4
+Added Net: Name=Base_Servo
+Added Pin To Net: NetName=Claw_Servo Pin=U?-CN7_17
+Added Net: Name=Claw_Servo
+Added Net: Name=GND
+Added Net: Name=NetJ1_1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=Shoulder1_Servo Pin=U?-CN10_2
+Added Net: Name=Shoulder1_Servo
+Added Pin To Net: NetName=Shoulder2_Servo Pin=U?-CN10_1
+Added Net: Name=Shoulder2_Servo
+Added Pin To Net: NetName=SPI_CS Pin=U?-CN10_16
+Added Net: Name=SPI_CS
+Added Pin To Net: NetName=SPI_MISO Pin=U?-CN10_28
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=U?-CN10_26
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=U?-CN10_30
+Added Net: Name=SPI_SCK
+Added Class: Name=ESP32
+Added Class: Name=externalConnections
+Added Class: Name=STM32
+Added Room: Name=ESP32
+Added Room: Name=externalConnections
+Added Room: Name=STM32
